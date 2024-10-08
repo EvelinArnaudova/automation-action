@@ -1,3 +1,2 @@
 # automation-action
-commit test
-test pull
+create develop branch
